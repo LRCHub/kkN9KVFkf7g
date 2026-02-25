@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "超孤独ライオン",
+  "base_artist": "≒JOY",
+  "createdAt": "2026-02-25T08:58:43.587820Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "超孤独ライオン",
+      "artist": "≒JOY",
+      "has_synced": true,
+      "path": "select/01_超孤独ライオン_≒JOY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "超孤独ライオン",
+      "artist": "≒JOY",
+      "has_synced": false,
+      "path": "select/pl_01_超孤独ライオン_≒JOY.txt"
+    }
+  ]
+}
